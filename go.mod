@@ -1,4 +1,4 @@
-module swarnimrenxo@bitbucket.org/renxo-tech/chatfun
+module github.com/swarnimrenxo/chatfun
 
 go 1.22.0
 
